@@ -2,9 +2,9 @@
 
 namespace codearachnid\KeyDex\Tests;
 
+use codearachnid\KeyDex\KeyDexServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use codearachnid\KeyDex\KeyDexServiceProvider;
 
 class TestCase extends Orchestra
 {

@@ -2,9 +2,9 @@
 
 namespace codearachnid\KeyDex;
 
+use codearachnid\KeyDex\Commands\KeyDexCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use codearachnid\KeyDex\Commands\KeyDexCommand;
 
 class KeyDexServiceProvider extends PackageServiceProvider
 {
