@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace codearachnid\KeyDex\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class KeyDexCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'keydex';
 
     public $description = 'My command';
 
